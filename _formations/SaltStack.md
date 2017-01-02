@@ -32,7 +32,7 @@ tarif: 1 500 €
 ## Public
 
 
-Administrateurs système, ingénieur de production, développeurs et architectes
+Administrateurs système, ingénieurs de production, développeurs et architectes
 
 ## Pré-requis
 
@@ -72,7 +72,7 @@ Connaissances système Linux de base
 * Techniques d’intégration d’un parc existant
 
 
-### salt-cloud
+### Salt-cloud
 
 
 * SaltStack et Amazon Web Services
